@@ -3,6 +3,6 @@ target
 .classpath
 .project
 .replit
-Main.class
+*.class
 pom.xml
 replit.nix
