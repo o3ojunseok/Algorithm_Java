@@ -1,0 +1,8 @@
+.settings
+target
+.classpath
+.project
+.replit
+Main.class
+pom.xml
+replit.nix
